@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a321bfe.css",
-    "main.js": "/static/js/main.a25d3157.js",
-    "index.html": "/index.html",
-    "main.6a321bfe.css.map": "/static/css/main.6a321bfe.css.map",
-    "main.a25d3157.js.map": "/static/js/main.a25d3157.js.map"
+    "main.css": "/formulariomedicov1/static/css/main.6a321bfe.css",
+    "main.js": "/formulariomedicov1/static/js/main.ee0b4b3d.js",
+    "index.html": "/formulariomedicov1/index.html",
+    "main.6a321bfe.css.map": "/formulariomedicov1/static/css/main.6a321bfe.css.map",
+    "main.ee0b4b3d.js.map": "/formulariomedicov1/static/js/main.ee0b4b3d.js.map"
   },
   "entrypoints": [
     "static/css/main.6a321bfe.css",
-    "static/js/main.a25d3157.js"
+    "static/js/main.ee0b4b3d.js"
   ]
 }
